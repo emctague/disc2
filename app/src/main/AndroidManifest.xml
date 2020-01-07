@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="me.tague.discordcheater">
+    package="me.tague.disc2">
     <uses-permission android:name="android.permission.INTERNET"/>
 
 
@@ -14,7 +14,7 @@
         android:theme="@style/AppTheme"
         android:hardwareAccelerated="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".MainActivity">
+        <activity android:name="me.tague.disc2.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

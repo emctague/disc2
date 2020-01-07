@@ -1,4 +1,4 @@
-package me.tague.discordcheater;
+package me.tague.disc2;
 
 import org.junit.Test;
 

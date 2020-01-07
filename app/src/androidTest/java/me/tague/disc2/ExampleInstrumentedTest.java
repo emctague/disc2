@@ -1,4 +1,4 @@
-package me.tague.discordcheater;
+package me.tague.disc2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("me.tague.discordcheater", appContext.getPackageName());
+        assertEquals("me.tague.disc2", appContext.getPackageName());
     }
 }
